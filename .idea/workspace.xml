@@ -4,16 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02faf43e-4248-4861-aa64-802abfb2e80d" name="Changes" comment="" />
+    <list default="true" id="02faf43e-4248-4861-aa64-802abfb2e80d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="38bpwArGS5mIToYdfm3qvXycGjU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,8 +37,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Pattern01.executor": "Run",
+    "Application.Pattern02.executor": "Run",
+    "Application.Pattern03.executor": "Run",
+    "Application.Pattern04.executor": "Run",
+    "Application.Pattern05.executor": "Run",
+    "Application.Pattern06.executor": "Run",
+    "Application.Pattern07.executor": "Run",
+    "Application.Pattern08.executor": "Run",
+    "Application.Pattern09.executor": "Run",
+    "Application.Pattern10.executor": "Run",
+    "Application.Pattern11.executor": "Run",
+    "Application.Pattern12.executor": "Run",
+    "Application.Pattern13.executor": "Run",
+    "Application.Pattern14.executor": "Run",
+    "Application.Pattern15.executor": "Run",
+    "Application.Pattern16.executor": "Run",
+    "Application.Pattern17.executor": "Run",
+    "Application.Pattern18.executor": "Run",
+    "Application.Pattern19.executor": "Run",
+    "Application.Pattern20.executor": "Run",
+    "Application.Pattern21.executor": "Run",
+    "Application.Pattern22.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/a2z-dsa-java",
     "onboarding.tips.debug.path": "D:/a2z-dsa-java/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
